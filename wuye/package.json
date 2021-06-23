@@ -13,7 +13,7 @@
     "axios": "^0.19.0",
     "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.15.2",
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.5.4",
     "es6-promise": "^4.2.6",
     "fastclick": "^1.0.6",
     "jquery": "^3.5.1",
